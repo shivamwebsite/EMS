@@ -4,7 +4,7 @@ A full-stack **Employee Management System** built with the **MERN stack** (Mongo
 
 ---
 
-## 🚀 Features
+##  Features
 
 ### 👤 Role-Based Access
 - **Admin**
@@ -83,19 +83,18 @@ A full-stack **Employee Management System** built with the **MERN stack** (Mongo
 
 1. **Clone the repository**
 
-        git clone https://github.com/yourusername/employee-management-system.git
-        cd employee-management-system
-
+       git clone https://github.com/yourusername/employee-management-system.git
+       cd employee-management-system
 2. Setup backend
    
-        cd backend
-        npm install
-        node index.js
+       cd backend
+       npm install
+       node index.js
 3.Setup frontend
 
-    cd ../frontend
-    npm install
-    npm run dev
+       cd ../frontend
+       npm install
+       npm run dev
 4.Configure environment
 
         Create a .env file in /backend:
