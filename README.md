@@ -68,6 +68,9 @@ A full-stack **Employee Management System** built with the **MERN stack** (Mongo
 
 ## 📸 Screenshots
 
+### 🔐 Login Page
+<img src="assets/login.png" alt="Login Page" width="600"/>
+
 ### 🖥️ Admin Dashboard
 <img src="assets/admin.png" alt="Admin Dashboard" width="700"/>
 
@@ -83,9 +86,10 @@ A full-stack **Employee Management System** built with the **MERN stack** (Mongo
 
 1. **Clone the repository**
 
-       git clone https://github.com/yourusername/employee-management-system.git
-       cd employee-management-system
-2. Setup backend
+       git clone https://github.com/shivamwebsite/EMS.git
+       cd EMS
+       cd Employee management system
+3. Setup backend
    
        cd backend
        npm install
