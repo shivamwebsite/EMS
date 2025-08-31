@@ -82,6 +82,11 @@ A full-stack **Employee Management System** built with the **MERN stack** (Mongo
 
 ---
 
+## 📸 Demo
+
+[Demo Video](https://www.linkedin.com/posts/shivam-shaw-a9288a272_mern-mongodb-expressjs-activity-7367824956765728768-fxqA?utm_source=share&utm_medium=member_android&rcm=ACoAAEKxkY4BHUKw7WO7MmBrm7oYFy5o8-LY1HI
+)
+
 ## ⚙️ Installation
 
 1. **Clone the repository**
